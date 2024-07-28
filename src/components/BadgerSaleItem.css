@@ -1,0 +1,29 @@
+.undertype{
+    background-color: rgb(195, 154, 233);
+    border-radius: 8px;
+}
+
+.b_ordinary{
+    background-color: azure;
+    padding: 8px;
+    border-radius: 8px;
+    border: 12px;
+    height:max-content
+}
+
+
+.b_special{
+    background-color: rgb(212, 255, 127);
+    padding: 8px;
+    border-radius: 8px;
+    border: 12px;
+    height: max-content;
+}
+
+button {
+    color: rgb(195, 154, 233);
+    background-color: rgb(52, 38, 65);
+    border-style: none;
+}
+
+
